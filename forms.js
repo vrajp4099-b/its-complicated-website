@@ -1,4 +1,4 @@
-const endpoint = ''; // Set to the deployed Apps Script /exec URL.
+const endpoint = 'https://script.google.com/macros/s/AKfycbzAjG5Q_BVn-JWJiALp8LnNQzK04ZQCN1pDpqh8TAYP8qIli9WePilNBWaThzEUKgZ2jQ/exec';
 const success = {
   booking: 'Your demo request was received. Check your email for a receipt. Your preferred slot is a request only.',
   enquiry: 'Your project enquiry was received. Check your email for a receipt.'
